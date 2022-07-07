@@ -1,0 +1,2 @@
+# Jogo da memória simples feito como projeto para o BootCamp TQI Fullstack developer na dio para fixar os conhecimentos de javascript, html e css. 
+## A tematica escolhida para o jogo foram times do Brasileirão.
